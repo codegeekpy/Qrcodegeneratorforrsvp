@@ -55,3 +55,7 @@ The application uses SQLite for data storage. The database file (`viswam_ai.db`)
 ## Note
 
 Make sure to keep your credentials secure and do not share them with others. 
+
+##Upcoming feature
+
+A qr code validator for tech leads and admins imporvement , Credentials update and session detail features also need to included. 
